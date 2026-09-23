@@ -23,6 +23,8 @@ namespace laba2_67
         public MainWindow()
         {
             InitializeComponent();
+
+            КОСТЯ ЛОХ ОБЪЕЛСЯ БЛОХ СЕЛ НА ЛАВОЧКУ И СДОХ
         }
     }
 }
